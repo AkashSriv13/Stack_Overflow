@@ -33,6 +33,8 @@ npm start
 
 <img src="https://github.com/AkashSriv13/Stack_Overflow/assets/120120817/adf35966-cb5a-4035-97a9-baa8aa791b99">
 <img src="https://github.com/AkashSriv13/Stack_Overflow/assets/120120817/ee1be552-e628-4164-96d8-8e50151fc7a8">
+<img src="https://github.com/AkashSriv13/Stack_Overflow/assets/120120817/6a6e3032-7daf-4038-b1e1-3f676e37f382">
+<img src="https://github.com/AkashSriv13/Stack_Overflow/assets/120120817/a56073f3-d2b0-437e-8742-83b0c271afe6">
 
 ## Live Link for the website:
 
