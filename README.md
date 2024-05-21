@@ -32,7 +32,7 @@ npm start
 ## Pics of the application
 
 <img src="https://github.com/AkashSriv13/Stack_Overflow/assets/120120817/adf35966-cb5a-4035-97a9-baa8aa791b99">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="https://github.com/AkashSriv13/Stack_Overflow/assets/120120817/ee1be552-e628-4164-96d8-8e50151fc7a8">
 
 ## Live Link for the website:
 
